@@ -1,16 +1,6 @@
-Links de suporte 
-
-IRPF Perguntao (2017) | PVG (RERCT) | 
-Links de suporte 
-
-IRPF Perguntao (2017) | PVG (RERCT) | 
-
-Pontos a considerar
-
-Não tornar o preenchimento da declaração tão complicado quanto o preenchimento atual = SIMPLIFICAR o procedimento atual
-Lembrar o usuário, sempre que puder, que estamos focando em qualidade
-
+###############
 Lista de itens	
+###############
 
 0. Ativos no Brasil
 	Tipo de investimento
@@ -18,15 +8,15 @@ Lista de itens
 		Conta Poupança: verificar se houve atualização (a)
 		
            Previdência
-PGBL
-VGBL 
+		PGBL
+		VGBL 
 .          Fundo de investimento
 		Fundos de ações
 		Fundos de curto prazo
 		Fundos de longo prazo
 1. Ativos no Exterior 
 	Origem
-		Moeda estrangeira
+		Moeda estrangeira 
 		Moeda Nacional
 		Ambos
 	Conta Corrente não Remunerada
@@ -34,20 +24,12 @@ VGBL
 2. Doação: aqui deverão ser informadas as doações realizadas e as que poderão ser deduzidas do imposto apurado na declaração. 
  
 	Limite de isenção por estado - criar planilha com dados e tributação para todos os Estados
-	
-	
 
 3. Sucessão 
-
-
-
 4. Previdência Privada 
 5. Ações 
 6. Venda de Imóvel e Aquisição em 180 dias 
 7. Atividade Rural 
-
-
-
 8. Alimentando e Dependente 
 9. Fundos de Investimento – Valor do Informe de Rendimentos e Valor de 31/12 
 10. Gastos Pessoais realizados no Exterior 
@@ -58,172 +40,10 @@ VGBL
 15. Doação do IRPF a Projetos Sociais, Culturais, Esportivos e de Saúde
 	Dar uma olhada no ECA e no Estatuto do Idoso, para confirmar as isenções
 	Verificar INs adicionais que tratem sobre o tema
-
 16. eSocial – Nova Obrigação ao Empregador Doméstico
 	Verificar nova legislação sobre o tema - LC 150 de 01/06/2015
 	
 17. Ganho de Capital para as Pessoas Físicas
 	Importação do programa - há como manipular os programas para importar automaticamente?
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	
-	
-
-
-ABERTURA DO PROGRAMA
-
-BOOLEANO
-    NOVA DECLARAÇÃO
-    DECLARANTE EXISTENTE
-
-======================================================
-
-%%% NOVA DECLARAÇÃO
-
-Obter dados básicos de cadastro: nome, cpf, local de nascimento (pensar melhor este campo da declaração)
-Obter dados básicos de profissão: nome da profissão (aqui, já puxar com um dos itens da lista do IR), e renda média mensal
-Perguntar quais documentos a pessoa tem naquele momento para preencher a DIRPF
-Você compareceu a algum médico no ano passado?
-Médico via convênio
-Qual convênio (com os dados da pessoa, tentar obter automaticamente do site)
-Médico particular
-Tem os documentos?
-Perguntar se a pessoa ainda estuda (graduação, tecnológico, pós, mba, e etc)
-Perguntar em quais contas a pessoa têm banco
-Perguntar qual banco, e já abrir os tipos de investimento
-Conta corrente
-Conta Poupança
-Investimento
-Se tem empréstimo
-
-
-
-
-
-%%%  DECLARANTE DE EXERCÍCIO ANTERIOR
-
-Faça o upload de sua declaração do ano anterior . #Pensar em como importar os dados de uma declaração para outro ano (comparar os arquivos de um ano para outro)
-
-Para #bensEdireitos, gerar uma lista com cada um dos bens já declarados e fazer perguntas em relação à eles
-Trabalhar nas seguintes avaliações
-Se o bem ainda existe
-Se houve alguma alteração patrimonial
-Se o bem mantém o mesmo status
-Identificar se a pessoa continua sendo dependente da outra pessoa
-
-
-     
-
-Pontos a considerar
-
-Não tornar o preenchimento da declaração tão complicado quanto o preenchimento atual = SIMPLIFICAR o procedimento atual
-Lembrar o usuário, sempre que puder, que estamos focando em qualidade
-
-
-
-
-Lista de itens	
-
-0. Ativos no Brasil
-	Tipo de investimento
-		Conta Corrente: verificar se houve alguma atualização no valor (a)
-		Conta Poupança: verificar se houve atualização (a)
-		
-           Previdência
-PGBL
-VGBL 
-.          Fundo de investimento
-		Fundos de ações
-		Fundos de curto prazo
-		Fundos de longo prazo
-1. Ativos no Exterior 
-	Origem
-		Moeda estrangeira
-		Moeda Nacional
-		Ambos
-	Conta Corrente não Remunerada
-	
-2. Doação: aqui deverão ser informadas as doações realizadas e as que poderão ser deduzidas do imposto apurado na declaração. 
- 
-	Limite de isenção por estado - criar planilha com dados e tributação para todos os Estados
-	
-	
-
-3. Sucessão 
-
-
-
-4. Previdência Privada 
-5. Ações 
-6. Venda de Imóvel e Aquisição em 180 dias 
-7. Atividade Rural 
-
-
-
-8. Alimentando e Dependente 
-9. Fundos de Investimento – Valor do Informe de Rendimentos e Valor de 31/12 
-10. Gastos Pessoais realizados no Exterior 
-11. Juros sobre Capital Próprio (JCP) e Dividendos não Pagos 4
-12. Custos de Aquisição dos Bens (juros, comissões, tributos, emolumentos)
-13. Saída Definitiva do País 
-14. Participações Societárias Adquiridas até 1983
-15. Doação do IRPF a Projetos Sociais, Culturais, Esportivos e de Saúde
-	Dar uma olhada no ECA e no Estatuto do Idoso, para confirmar as isenções
-	Verificar INs adicionais que tratem sobre o tema
-
-16. eSocial – Nova Obrigação ao Empregador Doméstico
-	Verificar nova legislação sobre o tema - LC 150 de 01/06/2015
-	
-17. Ganho de Capital para as Pessoas Físicas
-	Importação do programa - há como manipular os programas para importar automaticamente?
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	
-	
-
-
-ABERTURA DO PROGRAMA
-
-BOOLEANO
-    NOVA DECLARAÇÃO
-    DECLARANTE EXISTENTE
-
-======================================================
-
-%%% NOVA DECLARAÇÃO
-
-Obter dados básicos de cadastro: nome, cpf, local de nascimento (pensar melhor este campo da declaração)
-Obter dados básicos de profissão: nome da profissão (aqui, já puxar com um dos itens da lista do IR), e renda média mensal
-Perguntar quais documentos a pessoa tem naquele momento para preencher a DIRPF
-Você compareceu a algum médico no ano passado?
-Médico via convênio
-Qual convênio (com os dados da pessoa, tentar obter automaticamente do site)
-Médico particular
-Tem os documentos?
-Perguntar se a pessoa ainda estuda (graduação, tecnológico, pós, mba, e etc)
-Perguntar em quais contas a pessoa têm banco
-Perguntar qual banco, e já abrir os tipos de investimento
-Conta corrente
-Conta Poupança
-Investimento
-Se tem empréstimo
-
-
-
-
-
-%%%  DECLARANTE DE EXERCÍCIO ANTERIOR
-
-Faça o upload de sua declaração do ano anterior . #Pensar em como importar os dados de uma declaração para outro ano (comparar os arquivos de um ano para outro)
-
-Para #bensEdireitos, gerar uma lista com cada um dos bens já declarados e fazer perguntas em relação à eles
-Trabalhar nas seguintes avaliações
-Se o bem ainda existe
-Se houve alguma alteração patrimonial
-Se o bem mantém o mesmo status
-Identificar se a pessoa continua sendo dependente da outra pessoa
-
 
      
